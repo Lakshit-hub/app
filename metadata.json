@@ -1,0 +1,8 @@
+{
+  "name": "Bharat Quest: India Kids Quiz",
+  "description": "A fun and interactive India quiz game for kids exploring all 28 states, capitals, 8 union territories, national symbols, and general knowledge with an adventure roadmap, mascots, and rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
